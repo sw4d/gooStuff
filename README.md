@@ -1,5 +1,7 @@
 # gooStuff
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d9f6b09d9b7c49da8bd1a754233ba353)](https://app.codacy.com/app/sw4d/gooStuff?utm_source=github.com&utm_medium=referral&utm_content=sw4d/gooStuff&utm_campaign=badger)
+
 This project has solutions... to some problems. Did you ask for solutions to these problems? 
 
 "No questions, no answers"
